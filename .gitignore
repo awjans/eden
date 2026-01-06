@@ -35,3 +35,4 @@
 # Ignore IDE project files
 .vscode/*
 *.code-workspace
+/.venv
